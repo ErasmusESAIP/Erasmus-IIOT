@@ -1,7 +1,7 @@
 # Q & A Questions👋
 
 ## How to make a repository and upload your materials?
-Please find <a href="https://docs.github.com/en/get-started/quickstart/create-a-repo#commit-your-first-change">here/a> a visual guide to make a repository and Commit your first change.
+Please find <a href="https://docs.github.com/en/get-started/quickstart/create-a-repo#commit-your-first-change">here</a> a visual guide to make a repository and Commit your first change.
 
 
 
